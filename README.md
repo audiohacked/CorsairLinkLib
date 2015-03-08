@@ -1,0 +1,2 @@
+# libOpenCorsairLink
+library for OpenCorsairLink
